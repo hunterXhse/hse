@@ -1,0 +1,2 @@
+# hse
+for programm tech
